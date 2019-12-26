@@ -1,0 +1,8 @@
+flask
+requests
+bs4
+matplotlib
+pandas
+# scipy
+# on raspberry pi use apt-get to install scipy instead
+# sudo apt-get -y install python3-scipy
